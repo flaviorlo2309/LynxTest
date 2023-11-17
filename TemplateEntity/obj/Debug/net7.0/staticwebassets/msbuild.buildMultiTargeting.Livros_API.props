@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Livros_API.props" />
+</Project>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d+9G5Jp0jqYTGDdnBuOzWrQgu2zWARER52ud6A4Xqa0CdnDGW40Ct3wGaUmG7NZozWeftDGYVKw6o/g9M6b+WA==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\LivrosApi\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Janaina\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

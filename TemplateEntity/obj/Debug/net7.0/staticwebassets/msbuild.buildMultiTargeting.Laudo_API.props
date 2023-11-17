@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Laudo_API.props" />
+</Project>
